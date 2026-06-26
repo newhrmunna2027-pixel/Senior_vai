@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://node12.zampto.net:20669/$1"
+    }
+  ]
+}
