@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://node12.zampto.net:20669/$1"
+      "destination": "http://node12.zampto.net:20669/$1"
     }
   ]
 }
